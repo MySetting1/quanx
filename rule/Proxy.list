@@ -718,3 +718,7 @@ HOST-SUFFIX,rawgit.com,GitHub
 HOST-SUFFIX,rawgithub.com,GitHub
 HOST-SUFFIX,thegithubshop.com,GitHub
 HOST-KEYWORD,github,GitHub
+
+# rss阅读器
+HOST-KEYWORD,reeder,reeder
+HOST-KEYWORD,rssdub,rssdub
