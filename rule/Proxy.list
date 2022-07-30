@@ -721,4 +721,4 @@ HOST-KEYWORD,github,GitHub
 
 # rss阅读器
 HOST-KEYWORD,reeder,reeder
-HOST-KEYWORD,rsshub,rsshub
+HOST-SUFFIX,rsshub.com,rsshub
