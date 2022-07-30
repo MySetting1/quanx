@@ -1,2 +1,2 @@
-# quanx
-自用，修改大神的config
+
+源文件作者地址：https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX
