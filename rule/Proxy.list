@@ -723,3 +723,8 @@ HOST-KEYWORD,github,GitHub
 HOST-KEYWORD,reeder,reeder
 HOST-KEYWORD,rsshub,rsshub
 
+# Z-library
+DOMAIN-SUFFIX,z-lib.org,PROXY
+
+# 综合网站
+
